@@ -4,6 +4,6 @@
 ## Image of Application
 ![Alt text](image.png)
 ## Link to Application
-https://mighty-hamlet-98776-5aafaf96d0e0.herokuapp.com/notes 
+https://mighty-hamlet-98776-5aafaf96d0e0.herokuapp.com/
 ## Credit
 I had a peer (Bill Marks) help me with the routes.
